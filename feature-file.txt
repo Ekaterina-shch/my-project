@@ -1,1 +1,3 @@
 Feature text file
+
+This file was modifed in the feature in the branch
